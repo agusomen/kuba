@@ -1,0 +1,38 @@
+{
+  "name": "kerjasante",
+  "short_name": "kerjasante",
+  "start_url": "https://www.kerjasante.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-iH1GPhL4P8k/XK6rxSMzitI/AAAAAAAAB8M/uRdobCBZ6TwsAYBMERBGSe-yTUU2xUoOgCLcBGAs/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-ouaBB1ynboI/XK6rx4V68fI/AAAAAAAAB8U/w1q6tAfCD2QcfYoVLZUmX0Yf7eMPJdzOACLcBGAs/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-ZuhmJurbozs/XK6ryUnGTBI/AAAAAAAAB8Y/WyWFk1KtZ3Yty6eyda7209dt0_KDCTfDgCLcBGAs/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-Grj3yxa4R4o/XK6rxGPvH8I/AAAAAAAAB8I/AONWZ1gNCL0iIW2X1yYjItTo62juRPSFACLcBGAs/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-5J2nP79ET20/XK6rxFKPXiI/AAAAAAAAB8E/m1WTB7h0c6QKHzfqYQPgD8A_-G3GrklbgCLcBGAs/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ROezNOYhmuY/XK6rw9uAwsI/AAAAAAAAB8A/RmO66MJuzioQWoo6EbGvkdyXAAh2qPZgACLcBGAs/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-BmGsOYID1U0/XK6rx2BC9lI/AAAAAAAAB8Q/rvrG_R0sc8Yom2-OCA1H4bj8JAYp86RFwCLcBGAs/s1600/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
